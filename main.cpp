@@ -2,8 +2,6 @@
 //  main.cpp
 //  WavHeaderReader
 //
-//  Created by muller on 6/21/16.
-//  Copyright © 2016 muller. All rights reserved.
 //
 
 #include <iostream>
